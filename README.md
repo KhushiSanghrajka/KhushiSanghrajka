@@ -158,12 +158,12 @@ LLM pipeline using CoT prompting and LangChain that automates keyword analysis, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanghrajkakhushi&show_icons=true&theme=github_dark&bg_color=0A0D14&border_color=7C3AED&icon_color=7C3AED&title_color=a5b4fc&text_color=c7d2fe&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghrajkakhushi&layout=compact&theme=github_dark&bg_color=0A0D14&border_color=06B6D4&title_color=a5b4fc&text_color=c7d2fe&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiSanghrajka&show_icons=true&theme=github_dark&bg_color=0A0D14&border_color=7C3AED&icon_color=7C3AED&title_color=a5b4fc&text_color=c7d2fe&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiSanghrajka&layout=compact&theme=github_dark&bg_color=0A0D14&border_color=06B6D4&title_color=a5b4fc&text_color=c7d2fe&hide_border=false" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanghrajkakhushi&theme=github-dark-blue&background=0A0D14&border=7C3AED&stroke=7C3AED&ring=06B6D4&fire=F59E0B&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=c7d2fe&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiSanghrajka&theme=github-dark-blue&background=0A0D14&border=7C3AED&stroke=7C3AED&ring=06B6D4&fire=F59E0B&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=c7d2fe&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ---
