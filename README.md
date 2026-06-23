@@ -21,7 +21,7 @@ khushi = {
     "focus"       : ["Agentic Systems", "RAG Pipelines", "LLM Orchestration", "HITL Workflows"],
     "shipped"     : "20+ production AI agents — enterprise & healthcare clients",
     "domains"     : ["HIPAA-regulated AI", "Healthcare Tech", "Travel AI", "B2B SaaS"],
-    "currently"   : "K8s-sandboxed code execution + AI-powered QA automation @ eClinicalWorks",
+    "currently"   : "K8s-sandboxed code execution + AI-powered QA automation",
     "superpower"  : "End-to-end ownership: infra → agent design → production → stakeholders",
     "writing"     : "Technical content on Medium — LangGraph, RAG, agentic patterns",
     "open_to"     : "Remote Senior/Lead AI Eng roles (US/EU) · IST timezone",
@@ -86,7 +86,7 @@ Built with LangGraph, FastAPI, React, and OpenAI-compatible LLMs. Lets you desig
 <td width="50%" valign="top">
 
 ### 🔬 Spec Studio
-**AI-Powered QA Automation** *(@ eClinicalWorks)*
+**AI-Powered QA Automation**
 
 Transforms DIR requirements → Gherkin test cases using LLMs + hybrid search, validated against 600K+ historical test cases. Saves 35 hours per sprint. Integrates Playwright MCP, Codex Skills, and GitHub Actions for full EMR test automation with artifact generation.
 
