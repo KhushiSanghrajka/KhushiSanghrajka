@@ -1,0 +1,53 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="220" rx="10" fill="#0D1117"/>
+  <rect width="800" height="220" rx="10" fill="none" stroke="#7C3AED" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Title -->
+  <text x="24" y="28" font-family="monospace" font-size="10" fill="#7C3AED" letter-spacing="2" text-anchor="start">SKILLS &amp; EXPERTISE</text>
+  <line x1="24" y1="36" x2="776" y2="36" stroke="#7C3AED" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Row height: 26, start y: 56 -->
+  <!-- Labels col: x=24, bar col: x=340, pct col: x=750 -->
+
+  <!-- Row 1 -->
+  <text x="24" y="60" font-family="monospace" font-size="11" fill="#c7d2fe">LLM Orchestration</text>
+  <text x="168" y="60" font-family="monospace" font-size="10" fill="#64748B">LangChain · LangGraph · MCP</text>
+  <rect x="340" y="49" width="390" height="7" rx="3" fill="#161B26"/>
+  <rect x="340" y="49" width="370" height="7" rx="3" fill="#7C3AED"/>
+  <text x="750" y="60" font-family="monospace" font-size="11" fill="#7C3AED" text-anchor="end">95%</text>
+
+  <!-- Row 2 -->
+  <text x="24" y="88" font-family="monospace" font-size="11" fill="#c7d2fe">Agentic AI</text>
+  <text x="108" y="88" font-family="monospace" font-size="10" fill="#64748B">HITL · planning · tool use · routing</text>
+  <rect x="340" y="77" width="390" height="7" rx="3" fill="#161B26"/>
+  <rect x="340" y="77" width="370" height="7" rx="3" fill="#7C3AED"/>
+  <text x="750" y="88" font-family="monospace" font-size="11" fill="#7C3AED" text-anchor="end">95%</text>
+
+  <!-- Row 3 -->
+  <text x="24" y="116" font-family="monospace" font-size="11" fill="#c7d2fe">RAG Systems</text>
+  <text x="122" y="116" font-family="monospace" font-size="10" fill="#64748B">hybrid search · Qdrant · ChromaDB · FAISS</text>
+  <rect x="340" y="105" width="390" height="7" rx="3" fill="#161B26"/>
+  <rect x="340" y="105" width="358" height="7" rx="3" fill="#06B6D4"/>
+  <text x="750" y="116" font-family="monospace" font-size="11" fill="#06B6D4" text-anchor="end">92%</text>
+
+  <!-- Row 4 -->
+  <text x="24" y="144" font-family="monospace" font-size="11" fill="#c7d2fe">Infrastructure</text>
+  <text x="130" y="144" font-family="monospace" font-size="10" fill="#64748B">Kubernetes · Docker · FastAPI · CI/CD</text>
+  <rect x="340" y="133" width="390" height="7" rx="3" fill="#161B26"/>
+  <rect x="340" y="133" width="304" height="7" rx="3" fill="#06B6D4"/>
+  <text x="750" y="144" font-family="monospace" font-size="11" fill="#06B6D4" text-anchor="end">78%</text>
+
+  <!-- Row 5 -->
+  <text x="24" y="172" font-family="monospace" font-size="11" fill="#c7d2fe">Voice &amp; NLP</text>
+  <text x="114" y="172" font-family="monospace" font-size="10" fill="#64748B">streaming · ASR · transcription · QC bots</text>
+  <rect x="340" y="161" width="390" height="7" rx="3" fill="#161B26"/>
+  <rect x="340" y="161" width="293" height="7" rx="3" fill="#a5b4fc"/>
+  <text x="750" y="172" font-family="monospace" font-size="11" fill="#a5b4fc" text-anchor="end">75%</text>
+
+  <!-- Row 6 -->
+  <text x="24" y="200" font-family="monospace" font-size="11" fill="#c7d2fe">ML &amp; Fine-Tuning</text>
+  <text x="158" y="200" font-family="monospace" font-size="10" fill="#64748B">transformers · evals · PyTorch · classical ML</text>
+  <rect x="340" y="189" width="390" height="7" rx="3" fill="#161B26"/>
+  <rect x="340" y="189" width="265" height="7" rx="3" fill="#a5b4fc"/>
+  <text x="750" y="200" font-family="monospace" font-size="11" fill="#a5b4fc" text-anchor="end">68%</text>
+</svg>
