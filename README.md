@@ -177,7 +177,7 @@ LLM pipeline using CoT prompting and LangChain that automates keyword analysis, 
 > 🖊 I write about agentic AI systems, LangGraph patterns, RAG architecture, and production ML engineering on [Medium →](https://medium.com/@sanghrajkakhushi)
 <!-- BLOG-POST-LIST:END -->
 
-*Tip: Add the [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action to auto-populate this section with your latest articles.*
+<!--*Tip: Add the [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action to auto-populate this section with your latest articles.*-->
 
 ---
 
@@ -203,16 +203,12 @@ LLM pipeline using CoT prompting and LangChain that automates keyword analysis, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0D14?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/khushi-sanghrajka167428249/)
 [![Medium](https://img.shields.io/badge/Medium-0A0D14?style=for-the-badge&logo=medium&logoColor=06B6D4)](https://medium.com/@sanghrajkakhushi)
-[![Email](https://img.shields.io/badge/Email-0A0D14?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:sanghrajkakhushi@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9408242295-0A0D14?style=for-the-badge&logo=whatsapp&logoColor=06B6D4)](tel:+919408242295)
 
 </div>
 
 <div align="center">
 
-*Open to Senior / Lead AI Engineer roles at remote-first companies (US/EU) · IST timezone*
-
-*[sanghrajkakhushi@gmail.com](mailto:sanghrajkakhushi@gmail.com)*
+*Open to AI Engineer/Senior or Lead AI Engineer roles · IST timezone*
 
 </div>
 
