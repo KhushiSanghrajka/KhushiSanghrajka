@@ -155,16 +155,75 @@ LLM pipeline using CoT prompting and LangChain that automates keyword analysis, 
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Skills & Expertise
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiSanghrajka&show_icons=true&theme=github_dark&bg_color=0A0D14&border_color=7C3AED&icon_color=7C3AED&title_color=a5b4fc&text_color=c7d2fe&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiSanghrajka&layout=compact&theme=github_dark&bg_color=0A0D14&border_color=06B6D4&title_color=a5b4fc&text_color=c7d2fe&hide_border=false" height="170" />
-</div>
+| Domain | Proficiency |
+|--------|-------------|
+| LLM Orchestration (LangChain · LangGraph · MCP) | `█████████░` 95% |
+| Agentic AI (HITL · planning · tool use · routing) | `█████████░` 95% |
+| RAG Systems (hybrid search · Qdrant · ChromaDB · FAISS) | `█████████░` 92% |
+| Infrastructure (Kubernetes · Docker · FastAPI · CI/CD) | `███████░░░` 78% |
+| Voice & NLP (streaming · ASR · transcription · QC) | `███████░░░` 75% |
+| ML & Fine-Tuning (transformers · evals · PyTorch) | `██████░░░░` 68% |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiSanghrajka&theme=github-dark-blue&background=0A0D14&border=7C3AED&stroke=7C3AED&ring=06B6D4&fire=F59E0B&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=c7d2fe&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
+---
+
+## 🛠 Core Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Orchestration**
+- ⬛ LangGraph `█████`
+- ⬛ LangChain `█████`
+- ⬛ MCP `████░`
+
+</td>
+<td valign="top" width="33%">
+
+**LLM APIs**
+- 🟦 OpenAI `█████`
+- 🟦 Anthropic `█████`
+- 🟦 Gemini `████░`
+
+</td>
+<td valign="top" width="33%">
+
+**Vector & Search**
+- ⬛ Qdrant `█████`
+- ⬛ ChromaDB `█████`
+- ⬛ FAISS `████░`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Infrastructure**
+- 🟦 Kubernetes `████░`
+- 🟦 Docker `████░`
+- 🟦 FastAPI `█████`
+
+</td>
+<td valign="top">
+
+**Cloud & MLOps**
+- 🟨 AWS / GCP `████░`
+- 🟨 LangFuse `████░`
+- 🟨 OpenAI Evals `████░`
+
+</td>
+<td valign="top">
+
+**Databases**
+- 🟪 PostgreSQL `████░`
+- 🟪 MongoDB `████░`
+- 🟪 Neo4j `███░░`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -200,8 +259,20 @@ LLM pipeline using CoT prompting and LangChain that automates keyword analysis, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0D14?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/khushi-sanghrajka167428249/)
 [![Medium](https://img.shields.io/badge/Medium-0A0D14?style=for-the-badge&logo=medium&logoColor=06B6D4)](https://medium.com/@sanghrajkakhushi)
+[![Email](https://img.shields.io/badge/Email-0A0D14?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:sanghrajkakhushi@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_9408242295-0A0D14?style=for-the-badge&logo=whatsapp&logoColor=06B6D4)](tel:+919408242295)
 
 </div>
+
+<div align="center">
+
+*Open to Senior / Lead AI Engineer roles at remote-first companies (US/EU) · IST timezone*
+
+*[sanghrajkakhushi@gmail.com](mailto:sanghrajkakhushi@gmail.com)*
+
+</div>
+
+---
 
 <div align="center">
 
